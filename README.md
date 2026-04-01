@@ -58,7 +58,7 @@ The engine compares multiple acquirers across dimensions (approval rate, latency
 
 ### Simulation Controls
 
-<img src="./assets/simulation_settings.png" width="100%" />
+<img src="./assets/simulation_settings.png" width="50%" />
 
 The Streamlit dashboard allows testing different traffic conditions, filters, and routing strategies interactively.
 

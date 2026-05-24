@@ -9,6 +9,26 @@
 
 ---
 
+
+## Why this matters now — the PSD3 / PSR reframe
+
+The Council of the EU published the final compromise texts for **PSD3 and the Payment Services Regulation on 23 April 2026**. Publication in the Official Journal is expected in Q2 2026, with general application ~21 months later (late 2027 / early 2028).
+
+PSD2 prescribed actions. PSD3/PSR prescribes an **objective function** — explicit liability allocation across every decision:
+
+- Apply Verification of Payee, or absorb the loss.
+- Monitor in real-time with environmental and device signals, or absorb the loss.
+- Block when warranted, with a documented rationale, or absorb the loss.
+- Fail to log a reasoned decision, lose the dispute.
+
+This repository works through the **product implications** of that shift. It is structured as a Group PM would structure a multi-quarter domain redesign: problem framing → decision framework → article mapping → reference implementation.
+
+The original engine optimised approval rate. This evolution reframes the same engine around **expected regulatory cost** — because under PSR, those two objectives are no longer the same.
+
+📄 Full strategic memo: [`docs/01_problem_framing.md`](docs/01_problem_framing.md)
+📄 PSR article mapping: [`docs/03_psr_article_mapping.md`](docs/03_psr_article_mapping.md)
+
+---
 ## Context
 
 In large-scale payment systems, every failed transaction has a direct business impact — lost revenue, degraded customer experience, and increased operational cost. Yet most systems still rely on static routing rules.

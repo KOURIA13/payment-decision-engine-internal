@@ -190,6 +190,15 @@ This project reflects a product + engineering mindset applied to a real payment 
 
 This project uses **synthetic data** and is designed for demonstration and portfolio purposes only. It does not represent any production system or real transaction data.
 
+## Going further
+
+The full reference implementation — including the liability cost model, 
+the PSR-compliant decision logger, the executable Streamlit dashboard, 
+and the 18-month domain roadmap — is shared on request with payments 
+product leaders, regulators, and serious recruitment conversations.
+
+Reach out via LinkedIn: linkedin.com/in/karim-ouriachi-a7217127
+
 ---
 
 *Built to demonstrate applied product thinking in payment systems — routing optimization, fraud decisioning, and business KPI modeling.*

@@ -6,6 +6,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-1a1a2e?style=flat-square&logo=streamlit&logoColor=ff4b4b)
 ![Status](https://img.shields.io/badge/Status-Prototype-1a1a2e?style=flat-square&color=00c896)
 ![ML](https://img.shields.io/badge/ML-Enabled-1a1a2e?style=flat-square&color=f5a623)
+![PSD3](https://img.shields.io/badge/PSD3%2FPSR-Aware-1a1a2e?style=flat-square&color=8b5cf6)
 
 ---
 

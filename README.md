@@ -195,7 +195,7 @@ This project uses **synthetic data** and is designed for demonstration and portf
 The full reference implementation — including the liability cost model, 
 the PSR-compliant decision logger, the executable Streamlit dashboard, 
 and the 18-month domain roadmap — is shared on request with payments 
-product leaders, regulators, and serious recruitment conversations.
+product leaders, regulators.
 
 Reach out via LinkedIn: linkedin.com/in/karim-ouriachi-a7217127
 
